@@ -4,7 +4,7 @@ date: "2015-05-01T22:12:03.284Z"
 description: "Le temps qui passe ne se rattrape pas"
 ---
 
->[**~Le temps qui passe ne s'arrête jamais~**](https://www.youtube.com/watch?v=nUE80DTNxK4)
+>[**Le temps qui passe ne s'arrête jamais**](https://www.youtube.com/watch?v=nUE80DTNxK4)
 
 Le temps est une des multiples notions contre lesquelles l'homme n'a pas d'influence: on a réussi à dompter le feu, controler l'eau, rediriger le vent, attirer la foudre mais face au temps on ne peux pas gagner.
 
