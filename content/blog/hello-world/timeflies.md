@@ -1,6 +1,6 @@
 ---
 title: Time flies
-date: "2019-01-14T16:00:03.284Z"
+date: "2019-01-14T16:00:00"
 description: "Le temps qui passe ne se rattrape pas"
 ---
 
