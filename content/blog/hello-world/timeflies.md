@@ -5,7 +5,7 @@ description: "Le temps qui passe ne se rattrape pas"
 ---
 
 <p align="center">
-  <img src="content/blog/hello-world/flies.jpg" width="350" >
+  <img src="flies.jpg" width="350" >
 </p>
 
 >[**Le temps qui passe ne s'arrête jamais**](https://www.youtube.com/watch?v=nUE80DTNxK4)
