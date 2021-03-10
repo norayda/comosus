@@ -3,6 +3,12 @@ title: "Un article, un mot : Ambition"
 date: "2019-01-18T14:14"
 description: A quoi nous fait penser le mot _"ambition"_ ?
 ---
+
+<p align="center">
+  <img src="liberte.jpg" width="400" height="100" >
+</p>
+
+
 >###“L'ambition est le chemin du succès. La persévérance est le véhicule dans lequel vous y arrivez.”
 
 
