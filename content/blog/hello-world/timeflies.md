@@ -5,8 +5,7 @@ description: "Le temps qui passe ne se rattrape pas"
 ---
 
 <p align="center">
-  <img src="https://github.com/norayda/comosus/content/blog/hello-world/main/flies.jpg" width="350" title="hover text">
-  <img src="https://github.com/norayda/comosus/content/blog/hello-world/main/flies.jpg" width="350" alt="accessibility text">
+  <img src="content/blog/hello-world/flies.jpg" width="350" >
 </p>
 
 >[**Le temps qui passe ne s'arrête jamais**](https://www.youtube.com/watch?v=nUE80DTNxK4)
