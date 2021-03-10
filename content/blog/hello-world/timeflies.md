@@ -4,6 +4,8 @@ date: "2019-01-14T16:00:00"
 description: "Le temps qui passe ne se rattrape pas"
 ---
 
+![alt text](https://github.com/norayda/comosus/content/blog/hello-world/main/flies.jpg?raw=true)
+
 >[**Le temps qui passe ne s'arrête jamais**](https://www.youtube.com/watch?v=nUE80DTNxK4)
 
 Le temps est une des multiples notions contre lesquelles l'homme n'a pas d'influence: on a réussi à dompter le feu, controler l'eau, rediriger le vent, attirer la foudre mais face au temps on ne peux pas gagner.
