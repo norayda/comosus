@@ -4,7 +4,10 @@ date: "2019-01-14T16:00:00"
 description: "Le temps qui passe ne se rattrape pas"
 ---
 
-![alt text](https://github.com/norayda/comosus/content/blog/hello-world/main/flies.jpg?raw=true)
+<p align="center">
+  <img src="https://github.com/norayda/comosus/content/blog/hello-world/main/flies.jpg" width="350" title="hover text">
+  <img src="https://github.com/norayda/comosus/content/blog/hello-world/main/flies.jpg" width="350" alt="accessibility text">
+</p>
 
 >[**Le temps qui passe ne s'arrête jamais**](https://www.youtube.com/watch?v=nUE80DTNxK4)
 
