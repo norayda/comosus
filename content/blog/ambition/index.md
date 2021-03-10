@@ -1,5 +1,5 @@
 ---
-title: Un article, un mot ":" Ambition
+title: "Un article, un mot : Ambition"
 date: "2019-01-18T14:14"
 description: A quoi nous fait penser le mot _"ambition"_ ?
 ---
