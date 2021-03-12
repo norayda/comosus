@@ -6,7 +6,7 @@ description: L'idée que l'on peut se faire du mariage diverge d'une communauté
 
 >**_Le mariage c'est la volonté à deux de créer l'unique_**
 >
->•𝐹𝓇𝒾𝑒𝒹𝓇𝒾𝒸𝒽 𝒩𝐼𝐸𝒯𝒵𝒮𝒞𝐻𝐸•
+•𝐹𝓇𝒾𝑒𝒹𝓇𝒾𝒸𝒽 𝒩𝐼𝐸𝒯𝒵𝒮𝒞𝐻𝐸•
 
 Le mariage est cette alliance créé par Dieu lui même qui vise à unir deux être pour qu’ils ne forment 
 plus qu’un et dans le but d’assurer la descendance de la race humaine . Cependant nous observons, 
