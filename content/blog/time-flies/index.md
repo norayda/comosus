@@ -4,9 +4,8 @@ date: "2019-01-14T16:00:00"
 description: "Le temps qui passe ne se rattrape pas"
 ---
 
-<p align="center">
-  <img src="flies.jpg" width="400" height="100" >
-</p>
+ <img src="flies.jpg" width="400" height="100" >
+
 
 >[**Le temps qui passe ne s'arrête jamais**](https://www.youtube.com/watch?v=nUE80DTNxK4)
 
