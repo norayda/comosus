@@ -1,7 +1,6 @@
 module.exports = {
   siteMetadata: {
     title: `Comosus`,
-    logo: "../src/images/logo.png",
     author: {
       name: `Norayda`,
       summary: `étudiante congolaise qui étudit et s'épanouit en région parisienne`,
