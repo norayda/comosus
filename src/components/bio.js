@@ -36,7 +36,7 @@ const Bio = () => {
         className="bio-avatar"
         layout="fixed"
         formats={["AUTO", "WEBP", "AVIF"]}
-        src="../images/profile-pic.png"
+        src="../images/profil-pic.png"
         width={50}
         height={50}
         quality={95}
@@ -44,10 +44,10 @@ const Bio = () => {
       />
       {author?.name && (
         <p>
-          Written by <strong>{author.name}</strong> {author?.summary || null}
+          Ecrit par <strong>{author.name}</strong> {author?.summary || null}
           {` `}
-          <a href={`https://www.instagram.com/${social?.instagram || ``}`}>
-            You should follow me on Instagram
+          <a href={`https://www.instagram.com/comosus_dios/${social?.instagram || ``}`}>
+            follow me on Instagram
           </a>
         </p>
       )}
