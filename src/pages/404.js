@@ -11,7 +11,7 @@ const NotFoundPage = ({ data, location }) => {
     <Layout location={location} title={siteTitle}>
       <SEO title="404: Not Found" />
       <h1>404: Not Found</h1>
-      <p> Vous avez atteint un chemin qui n&#39;existe pas... quelle tristesse </p>
+      <p> Tous chemins ne peut mener à Rome (ou Pointe-noire 😉)... quelle tristesse </p>
     </Layout>
   )
 }
