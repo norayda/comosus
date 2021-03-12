@@ -1,8 +1,7 @@
 ---
 title: "Le mariage : conte de fée ou utopie ?"
 date: "2020-05-15T05:42"
-description: L'idée que l'on peut se faire du mariage diverge d'une communauté à une autre. 
-Quel est mon point de vue ?
+description: L'idée que l'on peut se faire du mariage diverge d'une communauté à une autre. Quel est mon point de vue ?
 ---
 
 >**_Le mariage c'est la volonté à deux de créer l'unique_**
