@@ -1,8 +1,7 @@
 ---
 title: What next ? 
 date: "2020-06-14T14:48"
-description: à la suite de l'assassinat de George Floyd aux états unis, 
-plusieurs manifestations ont éclatées dépassant même les frontières des USA.
+description: à la suite de l'assassinat de George Floyd aux états unis, plusieurs manifestations ont éclatées dépassant même les frontières des USA.
 ---
 
 « **BLACK LIVES MATTER** »  une phrase lourde de sens,
