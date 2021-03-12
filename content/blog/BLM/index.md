@@ -6,10 +6,15 @@ plusieurs manifestations ont éclatées dépassant même les frontières des USA
 ---
 
 « **BLACK LIVES MATTER** »  une phrase lourde de sens,
+---
 « **BLACK LIVES MATTER** »  une phrase simple à comprendre,
+---
 « **BLACK LIVES MATTER** »  une phrase qui fait polémique,
+---
 « **BLACK LIVES MATTER** »  une phrase qui revendique des droits,
+---
 « **BLACK LIVES MATTER** »  une phrase qui devrait être intériorisé par tous,
+---
 
 L’Homme « black » en sortant cette phrase ne se positionne pas supérieur à toutes les autres « races », 
 il ne demande que sa place légitime au rang d’être humain. La question du racisme soulève encore un débat 
@@ -19,7 +24,10 @@ ardemment ces atrocités mais ne nous arretons pas à ça. Alors que faire lorsq
 « à la mode » ?
 
 Le 25 mai 2020 le monde entier est témoin de l’effroyable assassinat de Mr George Floyd un père, un chrétien, 
-par dessus tout un être humain. La vidéo est si insoutenable que je n’ai pu la visualiser dans son intégralité. On y voit un homme suppliant pour sa vie, criant au policier sa nécessité de respirer. On y voit son agonie face à un public incapable d’agir car bloqué par un des officiers. Mais surtout, on y voit un policier, main dans la poche, son genou étranglant un homme au sol, il est étonnement serein alors qu’il commet l’acte le plus barbare qui soit.
+par dessus tout un être humain. La vidéo est si insoutenable que je n’ai pu la visualiser dans son intégralité. 
+On y voit un homme suppliant pour sa vie, criant au policier sa nécessité de respirer. On y voit son agonie face 
+à un public incapable d’agir car bloqué par un des officiers. Mais surtout, on y voit un policier, main dans la poche, 
+son genou étranglant un homme au sol, il est étonnement serein alors qu’il commet l’acte le plus barbare qui soit.
 
 Cette vidéo a réveillé la fureur du monde, elle capture l’acte de trop. Plusieurs américain sortent alors dans 
 les rues malgré la situation sanitaire actuelle pour dénoncer les innombrables actes racistes effectué 
@@ -29,7 +37,8 @@ L’unité dont nous faisons preuve actuellement est salutaire, elle est belle �
 Après les rues il va falloir envahir les institutions. Je m’explique: après avoir crier de toutes nos tripes 
 que nous aussi nous existons, que nous comptons, que nous méritons l’amour,… il s’agirait maintenant d’aller 
 arracher le respect qu’ils nous doivent. Mais comment y parvenir ? en reconstruisant un second 
-[**BLACK WALL STREET**](https://www.theatlantic.com/sponsored/hbo-2019/the-massacre-of-black-wall-street/3217/) ? non … beaucoup trop communautariste. Les stéréotypes ont la dent dure par exemple, 
+[**BLACK WALL STREET**](https://www.theatlantic.com/sponsored/hbo-2019/the-massacre-of-black-wall-street/3217/) ? 
+non … beaucoup trop communautariste. Les stéréotypes ont la dent dure par exemple, 
 lorsqu’on voit un groupe de noirs s’approcher le premier réflexe pour certains est d’avoir peur par ce qu’on 
 leur a dressé une image dégradante de l’homme noir il serait bandit, assassin, drogué et inculte… Éduquons nous, 
 éduquons nos enfants.
