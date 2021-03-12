@@ -6,11 +6,11 @@ description: A quoi nous fait penser le mot _"fierté"_ ?
 
 >fierté : n.f.,
 >
->   • sentiment de respect pour soi même ou ses actions;
+>   * sentiment de respect pour soi même ou ses actions;
 >
->   • Indépendance de caractère de quelqu'un qui a le sentiment de son honneur ; (synonymes: dignité, noblesse, amour-propre)
+>   * Indépendance de caractère de quelqu'un qui a le sentiment de son honneur ; (synonymes: dignité, noblesse, amour-propre)
 >
->   • Caractère de quelqu'un qui se croit supérieur aux autres ; (synonymes: arrogance, hauteur)
+>   * Caractère de quelqu'un qui se croit supérieur aux autres ; (synonymes: arrogance, hauteur)
 
 
 la fierté peut être assimilé à de l'orgueil, elle est très souvent, à tort, qualifié de manière péjorative mais être fier de soi est une des clés pour trouver son bonheur. 
