@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Comosus`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Norayda`,
+      summary: `étudiante congolaise qui vit et s'épanouit en région parisienne`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: `Un blog qui réunit mes pensées et me permet de m'exprimer sur des sujets au choix(on pourra en débattre sur mon instagram)`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
     social: {
-      twitter: `kylemathews`,
+      instagram: `comosus_dios`,
     },
   },
   plugins: [
@@ -118,7 +118,7 @@ module.exports = {
         background_color: `#ffffff`,
         theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `src/images/gatsby-icon.png`, // This path is relative to the root of the site.
+        icon: `src/images/logo.jpg`, // This path is relative to the root of the site.
       },
     },
     `gatsby-plugin-react-helmet`,
