@@ -47,5 +47,4 @@ priez afin de recevoir l'équilibre nécessaire.
 
 Bonne chance dans vos recherches de partenaires, bonne chance dans votre amour propre.
 
-#KeepSmiling:) 
-Ouvrir le panneau de publication
+**#KeepSmiling:) **

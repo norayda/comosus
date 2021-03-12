@@ -25,4 +25,4 @@ tes connaissances impressionneront et attireront vers toi des clients de qualit�
 
 Je gardes pour de prochain post le thème de l'argent et nous discuterons sur plusieurs idées reçues que l'on développe à tort autour de ce sujet.
 
-#KeepSmilling
+**#KeepSmilling:)**
