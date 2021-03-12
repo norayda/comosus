@@ -8,7 +8,7 @@ plusieurs manifestations ont éclatées dépassant même les frontières des USA
 « **BLACK LIVES MATTER** »  une phrase lourde de sens,
 
 « **BLACK LIVES MATTER** »  une phrase simple à comprendre,
--
+
 « **BLACK LIVES MATTER** »  une phrase qui fait polémique,
 
 « **BLACK LIVES MATTER** »  une phrase qui revendique des droits,
