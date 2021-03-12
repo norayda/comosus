@@ -3,7 +3,7 @@ module.exports = {
     title: `Comosus`,
     author: {
       name: `Norayda`,
-      summary: `étudiante congolaise qui vit et s'épanouit en région parisienne`,
+      summary: `étudiante congolaise qui étudit et s'épanouit en région parisienne`,
     },
     description: `Un blog qui réunit mes pensées et me permet de m'exprimer sur des sujets au choix(on pourra en débattre sur mon instagram)`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
