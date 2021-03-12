@@ -36,3 +36,5 @@ Voilà ce que j’avais à vous dire, en cette période de confinement prennez d
 dans les domaines que vous aimez et surtout restez chez vous et ne sortez qu’en cas de nécessité. 
 (Vous pouvez retrouver l’image d’en-tête et plein d’autres sur le compte instagram 
 [@dynamic.france](https://www.instagram.com/dynamic.france/))
+
+**#keepsmiling:)**
