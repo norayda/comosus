@@ -5,11 +5,11 @@ description: à la suite de l'assassinat de George Floyd aux états unis,
 plusieurs manifestations ont éclatées dépassant même les frontières des USA.
 ---
 
- • « **BLACK LIVES MATTER** »  une phrase lourde de sens,
- • « **BLACK LIVES MATTER** »  une phrase simple à comprendre,
- • « **BLACK LIVES MATTER** »  une phrase qui fait polémique,
- • « **BLACK LIVES MATTER** »  une phrase qui revendique des droits,
- • « **BLACK LIVES MATTER** »  une phrase qui devrait être intériorisé par tous,
+« **BLACK LIVES MATTER** »  une phrase lourde de sens,
+« **BLACK LIVES MATTER** »  une phrase simple à comprendre,
+« **BLACK LIVES MATTER** »  une phrase qui fait polémique,
+« **BLACK LIVES MATTER** »  une phrase qui revendique des droits,
+« **BLACK LIVES MATTER** »  une phrase qui devrait être intériorisé par tous,
 
 L’Homme « black » en sortant cette phrase ne se positionne pas supérieur à toutes les autres « races », 
 il ne demande que sa place légitime au rang d’être humain. La question du racisme soulève encore un débat 
