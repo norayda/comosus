@@ -31,4 +31,4 @@ celle que tout le monde voit d'un bon œil. "Laisse moi ces histoires, tu seras 
 Je tiens à dire que le dessein prévu pour ta vie est somptueux. Si tu sens une attirance pour tel domaine, réfléchis-y sérieusement, prend courage et décides ! C'est ta vie. 
 Ne laisses pas la peur de ce que les gens diront ou penseront de tes choix te diriger. Gardes en tête que le métier de rêve existe il est composé de 40% de passion, 30% de facilité d’exécution et de 30% de curiosité.
 
-#KeepSmiling;)
+**#KeepSmiling;)**
