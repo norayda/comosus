@@ -5,6 +5,7 @@ description: A quoi nous fait penser le mot _"fierté"_ ?
 ---
 
 >fierté : n.f.,
+>
 >   • sentiment de respect pour soi même ou ses actions;
 >
 >   • Indépendance de caractère de quelqu'un qui a le sentiment de son honneur ; (synonymes: dignité, noblesse, amour-propre)
